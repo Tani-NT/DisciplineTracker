@@ -622,7 +622,7 @@ export default function HomePage() {
           start_date: todayDate,
           end_date: null,
           repeat_type: "weekly",
-          reminder_interval_minutes: 0,
+          reminder_interval_minutes: 30,
           is_active: true,
         });
 
